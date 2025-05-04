@@ -16,6 +16,8 @@ Run in Google Colab: https://colab.research.google.com/drive/1h5iAn4FqhaRnawwTbt
 
 *lasso_predictions.csv*: CSV file containing the final predicted house prices generated using the best Lasso regression model
 
+*data_description.txt*: It explains the purpose of each file in the repository so users can quickly understand the structure and contents of the project.
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 **Make sure to replace the following lines with your own file paths:**
